@@ -8,7 +8,7 @@ public class CaixasProduzidas {
         int quantidade_produzida = 10;
         double custo_m2 = 3.50;
         double custo_total = 27.30;
-          area = 2 * (altura * largura + altura * profundidade + largura * profundidade);
+          area = 2 * ((altura * largura) + (altura * profundidade) + (largura * profundidade));
           volume = altura * largura * profundidade;
           custo_total = area * custo_m2;
             System.out.println("Área da caixa: " + area + " m²");
