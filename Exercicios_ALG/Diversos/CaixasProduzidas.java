@@ -1,3 +1,4 @@
+package Diversos;
 public class CaixasProduzidas {
     public static void main(String[] args) {
         double altura = 0.5;

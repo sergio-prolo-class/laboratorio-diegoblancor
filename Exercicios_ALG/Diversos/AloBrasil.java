@@ -1,3 +1,4 @@
+package Diversos;
 // Autor: Diego Blanco Roda
 // Data: 02/10/2025
 

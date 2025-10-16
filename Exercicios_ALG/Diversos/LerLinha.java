@@ -1,3 +1,4 @@
+package Diversos;
 import java.util.Scanner;
 public class LerLinha {
     public static void main(String[] args) {
