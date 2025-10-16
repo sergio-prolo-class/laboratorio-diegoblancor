@@ -6,7 +6,6 @@ public class CaixasProduzidas {
         double profundidade = 0.3;
         double area = 0.78;
         double volume = 0.045;
-        int quantidade_produzida = 10;
         double custo_m2 = 3.50;
         double custo_total = 27.30;
           area = 2 * ((altura * largura) + (altura * profundidade) + (largura * profundidade));
