@@ -2,7 +2,7 @@ package Lista5;
 
 import java.util.Scanner;
 
-public class Ex05_EAN13_Digito {
+public class Ex5Digito {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

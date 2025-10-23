@@ -2,7 +2,7 @@ package Lista5;
 
 import java.util.Scanner;
 
-public class Ex03_Moedas {
+public class Ex03Moedas {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Entre com a quantidade de centavos: ");

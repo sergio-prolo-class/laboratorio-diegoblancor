@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Ex2Triangulos {
     public static void main (String [] args) {
-        Scanner sc = new Scanner (System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("Digite o valor dos lados do triângulo: ");
         double a = sc.nextDouble();

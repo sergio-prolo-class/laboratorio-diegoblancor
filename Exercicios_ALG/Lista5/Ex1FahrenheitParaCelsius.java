@@ -2,7 +2,7 @@ package Lista5;
 
 import java.util.Scanner;
 
-public class Ex01_FahrenheitParaCelsius {
+public class Ex1FahrenheitParaCelsius {
     public static void main (String [] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Digite o valor da temperatura em Fahrenheit: ");

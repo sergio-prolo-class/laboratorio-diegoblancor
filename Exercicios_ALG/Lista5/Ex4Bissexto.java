@@ -2,7 +2,7 @@ package Lista5;
 
 import java.util.Scanner;
 
-public class Ex04_Bissexto {
+public class Ex4Bissexto {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Entre com o ano: ");
