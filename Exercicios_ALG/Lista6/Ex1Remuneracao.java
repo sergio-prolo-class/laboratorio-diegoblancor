@@ -12,7 +12,14 @@ public class Ex1Remuneracao {
         int avaliacao = sc.nextInt();
 
         double salarioFixo = 2000.0;
-        double taxa = (vendas >= 10000.0) ? 0.07 : 0.05;
+        
+        double taxa;
+        if (vendas >= 10000.0) {
+            taxa = 0.07;
+        } else {
+            taxa = 0.05;
+        }
+        
         double comissao = vendas * taxa;
 
         double bonus = 0.0;
