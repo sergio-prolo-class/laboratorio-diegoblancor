@@ -67,12 +67,12 @@ public class Ex1Media {
             double t3 = lerNota(sc);
 
             double media = mediaFinal(p1, p2, p3, t1, t2, t3);
-            somaMedias += media; //soma para calcular média da disciplina
+            somaMedias += media; // soma para calcular média da disciplina
 
             System.out.printf("Média final do aluno %d: %.2f%n", i, media);
         }
 
-        //Média da disciplina = soma das médias / quantidade de alunos
+        // Média da disciplina = soma das médias / quantidade de alunos
         double mediaDisciplina = somaMedias / qtd;
         System.out.printf("Média da disciplina: %.2f%n", mediaDisciplina);
 
